@@ -1,4 +1,4 @@
-package DependencyInjection;
+package DependencyInjectionExample;
 
 public class Customer {
     private String id;
