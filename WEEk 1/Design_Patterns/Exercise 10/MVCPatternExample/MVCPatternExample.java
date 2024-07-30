@@ -1,4 +1,4 @@
-package MVCPattern;
+package MVCPatternExample;
 
 public class MVCPatternExample {
     public static void main(String[] args) {
