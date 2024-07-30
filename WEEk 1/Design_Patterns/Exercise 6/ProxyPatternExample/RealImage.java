@@ -1,4 +1,4 @@
-package ProxyPattern;
+package ProxyPatternExample;
 
 public class RealImage implements Image {
     private String filename;
