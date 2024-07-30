@@ -1,4 +1,4 @@
-package MVCPattern;
+package MVCPatternExample;
 
 public class StudentController {
     private Student model;
