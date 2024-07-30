@@ -1,4 +1,4 @@
-package ProxyPattern;
+package ProxyPatternExample;
 
 public class ProxyImage implements Image {
     private String filename;
