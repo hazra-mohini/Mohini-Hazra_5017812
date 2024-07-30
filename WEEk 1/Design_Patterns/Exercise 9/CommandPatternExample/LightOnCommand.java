@@ -1,4 +1,4 @@
-package CommandPattern;
+package CommandPatternExample;
 
 public class LightOnCommand implements Command {
     private Light light;
