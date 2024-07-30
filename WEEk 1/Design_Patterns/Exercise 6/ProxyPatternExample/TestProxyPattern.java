@@ -1,4 +1,4 @@
-package ProxyPattern;
+package ProxyPatternExample;
 
 public class TestProxyPattern {
     public static void main(String[] args) {
