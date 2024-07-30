@@ -1,4 +1,4 @@
-package AdapterPattern;
+package AdapterPatternExample;
 
 public class PayPalPayment {
     public void payByPayPal(double amount) {
