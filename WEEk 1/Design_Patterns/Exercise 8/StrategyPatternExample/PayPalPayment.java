@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPatternExample;
 
 public class PayPalPayment implements PaymentStrategy {
     private String email;
