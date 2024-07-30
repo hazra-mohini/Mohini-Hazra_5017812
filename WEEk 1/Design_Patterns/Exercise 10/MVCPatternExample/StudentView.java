@@ -1,4 +1,4 @@
-package MVCPattern;
+package MVCPatternExample;
 
 public class StudentView {
     public void displayStudentDetails(String studentName, String studentId, String studentGrade) {
