@@ -1,4 +1,4 @@
-package CommandPattern;
+package CommandPatternExample;
 
 public class RemoteControl {
     private Command command;
