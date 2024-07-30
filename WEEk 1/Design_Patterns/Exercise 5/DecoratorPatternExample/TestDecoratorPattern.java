@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package DecoratorPatternExample;
 
 public class TestDecoratorPattern {
     public static void main(String[] args) {
