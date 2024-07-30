@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPatternExample;
 
 public class PaymentContext {
     private PaymentStrategy paymentStrategy;
