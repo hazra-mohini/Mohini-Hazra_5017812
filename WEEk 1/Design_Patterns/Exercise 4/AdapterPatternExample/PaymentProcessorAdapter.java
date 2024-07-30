@@ -1,4 +1,4 @@
-package AdapterPattern;
+package AdapterPatternExample;
 
 public class PaymentProcessorAdapter implements PaymentProcessor {
     private CreditCardPayment creditCardPayment;
