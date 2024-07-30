@@ -1,4 +1,4 @@
-package DependencyInjection;
+package DependencyInjectionExample;
 
 public class CustomerRepositoryImpl implements CustomerRepository {
     @Override
