@@ -1,4 +1,4 @@
-package DependencyInjection;
+package DependencyInjectionExample;
 
 public class TestDependencyInjection {
     public static void main(String[] args) {
