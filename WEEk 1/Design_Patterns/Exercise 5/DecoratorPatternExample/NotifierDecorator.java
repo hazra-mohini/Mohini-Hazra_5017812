@@ -1,4 +1,4 @@
-package DecoratorPattern;
+package DecoratorPatternExample;
 
 public abstract class NotifierDecorator implements Notifier {
     protected Notifier wrapped;
