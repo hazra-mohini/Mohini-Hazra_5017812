@@ -1,4 +1,4 @@
-package MVCPattern;
+package MVCPatternExample;
 
 public class Student {
     private String id;
