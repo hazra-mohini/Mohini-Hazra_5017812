@@ -1,4 +1,4 @@
-package CommandPattern;
+package CommandPatternExample;
 
 public class TestCommandPattern {
     public static void main(String[] args) {
