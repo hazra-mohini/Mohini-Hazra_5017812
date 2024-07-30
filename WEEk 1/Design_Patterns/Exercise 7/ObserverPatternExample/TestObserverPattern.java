@@ -1,4 +1,4 @@
-package ObserverPattern;
+package ObserverPatternExample;
 
 public class TestObserverPattern {
     public static void main(String[] args) {
